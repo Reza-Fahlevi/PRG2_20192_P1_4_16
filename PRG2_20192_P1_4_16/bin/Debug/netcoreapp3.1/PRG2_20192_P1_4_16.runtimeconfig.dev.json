@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mocha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mocha\\.nuget\\packages"
+    ]
+  }
+}
